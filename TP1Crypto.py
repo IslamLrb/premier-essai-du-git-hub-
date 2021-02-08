@@ -56,7 +56,7 @@ def dechiffrer(text):
 
     
 
-
+ 
     
     i = 0
     k = 0
