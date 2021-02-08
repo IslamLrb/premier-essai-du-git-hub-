@@ -51,13 +51,13 @@ def dechiffrer(text):
     for i in tab : 
 
             i[1]= format(int(i[1])/len_net,'.3f')
-    ##print(tab)
+
     tab.sort(key=lambda x: x[1],reverse=True)
 
     
-    ##print(tab)
 
-    ##### lettre of original_tab to tab #####
+
+    
     i = 0
     k = 0
     taille = 15
